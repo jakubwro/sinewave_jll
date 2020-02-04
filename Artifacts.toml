@@ -1,11 +1,11 @@
 [[sinewave]]
 arch = "i686"
-git-tree-sha1 = "cdb37ec9bb23322a255abda10f929e9c4ffabcf8"
+git-tree-sha1 = "522b74cf8dae22c73d939ed62ad19257d9afd033"
 os = "windows"
 
     [[sinewave.download]]
-    sha256 = "93ef6f10bbd4605c431be9c5df1d43a8d736f5cd814890fc6b5dcbbbb66a2757"
-    url = "https://github.com/jakubwro/sinewave_jll/releases/download/sinewave-v0.1.0+0/sinewave.v0.1.0.i686-w64-mingw32.tar.gz"
+    sha256 = "9bfdb2d0d6f9f5a1cae84ca6ee993c8136caf607b67f9c03e60b017e46bc7b0e"
+    url = "https://github.com/jakubwro/sinewave_jll/releases/download/sinewave-v0.2.0+0/sinewave.v0.2.0.i686-w64-mingw32.tar.gz"
 [[sinewave]]
 arch = "x86_64"
 git-tree-sha1 = "a2a8154e1dd5891e6f6f5cdf852e670f1b22bc35"
@@ -13,8 +13,8 @@ libc = "glibc"
 os = "linux"
 
     [[sinewave.download]]
-    sha256 = "5bd5b26bf218e1a74cd5cab487db80be471d36adf6f8bb763a7f546be431d84a"
-    url = "https://github.com/jakubwro/sinewave_jll/releases/download/sinewave-v0.1.0+0/sinewave.v0.1.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "a8acb5eea71b19a4ea17b47f0515ab6393d1f7248d6d168add691538d36e84e1"
+    url = "https://github.com/jakubwro/sinewave_jll/releases/download/sinewave-v0.2.0+0/sinewave.v0.2.0.x86_64-linux-gnu.tar.gz"
 [[sinewave]]
 arch = "i686"
 git-tree-sha1 = "a5a447be811ada79de1bb542cdb01ba25d9b9d12"
@@ -22,8 +22,8 @@ libc = "musl"
 os = "linux"
 
     [[sinewave.download]]
-    sha256 = "388cd3244fd39c4212d030987f3a5eb923ac05ebc1ecb8acf5c2ba52be4365fa"
-    url = "https://github.com/jakubwro/sinewave_jll/releases/download/sinewave-v0.1.0+0/sinewave.v0.1.0.i686-linux-musl.tar.gz"
+    sha256 = "2300e3c1924a85305be3a72a4c13c20b98ec5f0248901715b0443287d99a48d7"
+    url = "https://github.com/jakubwro/sinewave_jll/releases/download/sinewave-v0.2.0+0/sinewave.v0.2.0.i686-linux-musl.tar.gz"
 [[sinewave]]
 arch = "x86_64"
 git-tree-sha1 = "2f0bca9727e72a187e9ce1a77744eb8f444ed951"
@@ -31,8 +31,8 @@ libc = "musl"
 os = "linux"
 
     [[sinewave.download]]
-    sha256 = "f4137b8318ee5518a5afda0c69a83ae574ae784fd71801c7fd32034b65e7567a"
-    url = "https://github.com/jakubwro/sinewave_jll/releases/download/sinewave-v0.1.0+0/sinewave.v0.1.0.x86_64-linux-musl.tar.gz"
+    sha256 = "46f624cebb0504c2a0bfff918268732fb0921e4be5b675f0162358f247affba3"
+    url = "https://github.com/jakubwro/sinewave_jll/releases/download/sinewave-v0.2.0+0/sinewave.v0.2.0.x86_64-linux-musl.tar.gz"
 [[sinewave]]
 arch = "i686"
 git-tree-sha1 = "f8377fa9507728e4995e3e92acabb43b8f91ce08"
@@ -40,8 +40,8 @@ libc = "glibc"
 os = "linux"
 
     [[sinewave.download]]
-    sha256 = "6be18423fb6fe46b94e030492687cc7bd388701d5f643415f12fc522ef0728ea"
-    url = "https://github.com/jakubwro/sinewave_jll/releases/download/sinewave-v0.1.0+0/sinewave.v0.1.0.i686-linux-gnu.tar.gz"
+    sha256 = "eb7765a73fba67eb6da44415bda18da7c5557506032708b89efc9d1aa6498771"
+    url = "https://github.com/jakubwro/sinewave_jll/releases/download/sinewave-v0.2.0+0/sinewave.v0.2.0.i686-linux-gnu.tar.gz"
 [[sinewave]]
 arch = "aarch64"
 git-tree-sha1 = "09db65b575efd1c4ff8962202323634f1fed5008"
@@ -49,8 +49,8 @@ libc = "musl"
 os = "linux"
 
     [[sinewave.download]]
-    sha256 = "b9a10cf8e1a4e7502941cad0d24403e6b012f7fc53a3ed9f1253419a227e6efc"
-    url = "https://github.com/jakubwro/sinewave_jll/releases/download/sinewave-v0.1.0+0/sinewave.v0.1.0.aarch64-linux-musl.tar.gz"
+    sha256 = "d4e96ade806beb33a58184728f356b2519a7902d3765b226d02267787b78ae90"
+    url = "https://github.com/jakubwro/sinewave_jll/releases/download/sinewave-v0.2.0+0/sinewave.v0.2.0.aarch64-linux-musl.tar.gz"
 [[sinewave]]
 arch = "powerpc64le"
 git-tree-sha1 = "d5ecb0c62fe5c7a90dca0e562cc6fcbb5dba8aaa"
@@ -58,16 +58,16 @@ libc = "glibc"
 os = "linux"
 
     [[sinewave.download]]
-    sha256 = "c1c3be0f8f53b28f8aea487522a634ac57da3a0161821cee3d15ba3cbde68eb1"
-    url = "https://github.com/jakubwro/sinewave_jll/releases/download/sinewave-v0.1.0+0/sinewave.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "f7d2da1ffa86f0f133f12656fd74981f3885cde0dd1ee92352d1a5298b09b6a2"
+    url = "https://github.com/jakubwro/sinewave_jll/releases/download/sinewave-v0.2.0+0/sinewave.v0.2.0.powerpc64le-linux-gnu.tar.gz"
 [[sinewave]]
 arch = "x86_64"
 git-tree-sha1 = "fca5c767da623a197a43a0d79ad70dfe355bdb25"
 os = "macos"
 
     [[sinewave.download]]
-    sha256 = "6cd5f632dd9029f03ee5659481129514f52c4873dea74588300dab10d60b09ae"
-    url = "https://github.com/jakubwro/sinewave_jll/releases/download/sinewave-v0.1.0+0/sinewave.v0.1.0.x86_64-apple-darwin14.tar.gz"
+    sha256 = "eadd238e1fb61cbd053c462a04b5fc17c30574f55de267dc14ad1072bf82a8c7"
+    url = "https://github.com/jakubwro/sinewave_jll/releases/download/sinewave-v0.2.0+0/sinewave.v0.2.0.x86_64-apple-darwin14.tar.gz"
 [[sinewave]]
 arch = "aarch64"
 git-tree-sha1 = "19b76086a5332e90a9da65a091ecd09f144bcc84"
@@ -75,16 +75,16 @@ libc = "glibc"
 os = "linux"
 
     [[sinewave.download]]
-    sha256 = "8eb9d42c19d948e1de40c32d5da82bd4271496859ba93adf0f063c8457b0a94c"
-    url = "https://github.com/jakubwro/sinewave_jll/releases/download/sinewave-v0.1.0+0/sinewave.v0.1.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "0c5487ab5af2b48893c474403b448efa60ec440ff7a144a941b4d590d7b07d25"
+    url = "https://github.com/jakubwro/sinewave_jll/releases/download/sinewave-v0.2.0+0/sinewave.v0.2.0.aarch64-linux-gnu.tar.gz"
 [[sinewave]]
 arch = "x86_64"
 git-tree-sha1 = "fdd98ab0775ae229b6414a3a511c1b0259009aa1"
 os = "freebsd"
 
     [[sinewave.download]]
-    sha256 = "55b8a6ba2783acceda917ade7467ecc66eaba88f414b9c258ffcc52c0dc65db6"
-    url = "https://github.com/jakubwro/sinewave_jll/releases/download/sinewave-v0.1.0+0/sinewave.v0.1.0.x86_64-unknown-freebsd11.1.tar.gz"
+    sha256 = "4d8a4ec3e78a8114f7f2bb33892efa33a948a276d54025efb2eecb657fd52df6"
+    url = "https://github.com/jakubwro/sinewave_jll/releases/download/sinewave-v0.2.0+0/sinewave.v0.2.0.x86_64-unknown-freebsd11.1.tar.gz"
 [[sinewave]]
 arch = "armv7l"
 git-tree-sha1 = "c975f46a227e376424ec278441f058ebcb2c7353"
@@ -92,8 +92,8 @@ libc = "musl"
 os = "linux"
 
     [[sinewave.download]]
-    sha256 = "e223d55cf068074a1a42777331093e815a9eab99f3ee0a8fb928c07fe11ef53a"
-    url = "https://github.com/jakubwro/sinewave_jll/releases/download/sinewave-v0.1.0+0/sinewave.v0.1.0.arm-linux-musleabihf.tar.gz"
+    sha256 = "24c0e9d51753dd8971488a36b09a78ec51e700fded5e2834656170386d534353"
+    url = "https://github.com/jakubwro/sinewave_jll/releases/download/sinewave-v0.2.0+0/sinewave.v0.2.0.arm-linux-musleabihf.tar.gz"
 [[sinewave]]
 arch = "armv7l"
 git-tree-sha1 = "7e7fd7d08d3ede8e5f0c4b7822e7c82f44b281a2"
@@ -101,13 +101,13 @@ libc = "glibc"
 os = "linux"
 
     [[sinewave.download]]
-    sha256 = "854eeee7acae88757dc9cd07347bd46086c3f35952f8e2624346030c589e5f4c"
-    url = "https://github.com/jakubwro/sinewave_jll/releases/download/sinewave-v0.1.0+0/sinewave.v0.1.0.arm-linux-gnueabihf.tar.gz"
+    sha256 = "2a4c3dc7fde78837c1bf0f3ec22d4a41d44cc4591ae23ac17a8a3d90431bd674"
+    url = "https://github.com/jakubwro/sinewave_jll/releases/download/sinewave-v0.2.0+0/sinewave.v0.2.0.arm-linux-gnueabihf.tar.gz"
 [[sinewave]]
 arch = "x86_64"
-git-tree-sha1 = "fc14afcb49fe78fb98b3bc27783b67d62933a54b"
+git-tree-sha1 = "d58e7d0910fe5e620c14dd5147388236d013432c"
 os = "windows"
 
     [[sinewave.download]]
-    sha256 = "0fadc2d2176b3cdd0556817bba10693cf85ca3db7e0f82c484b8f00337c002c4"
-    url = "https://github.com/jakubwro/sinewave_jll/releases/download/sinewave-v0.1.0+0/sinewave.v0.1.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "37024aa5eef472d65f93cf54944bf41d790ae15f32a713be64c64e9c6529fe77"
+    url = "https://github.com/jakubwro/sinewave_jll/releases/download/sinewave-v0.2.0+0/sinewave.v0.2.0.x86_64-w64-mingw32.tar.gz"
